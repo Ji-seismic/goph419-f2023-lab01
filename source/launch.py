@@ -6,6 +6,7 @@ import numpy as np
 def arcsin(x):
     """Compute the inverse sine of x on the range [-pi/2, pi/2].
     """
+    # add your code here
     return ...
 
 
