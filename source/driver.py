@@ -25,11 +25,9 @@ def main():
 
     # plot launch angle range for a fixed velocity ratio
     
-    # add your code here
 
     # plot launch angle range for a fixed target altitude
     
-    #add your code here
 
 if __name__ == "__main__":
     main()
